@@ -118,11 +118,4 @@ Databases: MySQL, MongoDB, Supabase
 
 ---
 
-### 🌌 Cyberpunk Hacker Coder Aesthetic
 
-- ASCII “terminal rain” in code blocks  
-- Bold outputs for terminal commands  
-- Dark hacker terminal theme  
-- Purple neon icons/logos for all badges  
-- Sticker-style badges for achievements, GitHub metrics, and socials  
-- Fully GitHub-compatible, no broken badges
