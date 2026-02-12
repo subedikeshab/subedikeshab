@@ -67,28 +67,3 @@
   🚀 More projects coming soon…
 </p>
 
----
-
-
-
-  /* Coming soon pulse */
-  .coming-soon {
-    font-weight: 600;
-    opacity: 0.85;
-    animation: pulse 3s ease-in-out infinite;
-  }
-
-  @keyframes pulse {
-    0% { opacity: 0.6; }
-    50% { opacity: 1; }
-    100% { opacity: 0.6; }
-  }
-
-  /* Disable animations for users who prefer reduced motion */
-  @media (prefers-reduced-motion: reduce) {
-    .blink,
-    .coming-soon {
-      animation: none;
-    }
-  }
-</style>
