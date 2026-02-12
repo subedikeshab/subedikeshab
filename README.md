@@ -1,4 +1,4 @@
-# 🌐 <span style="color:#fff; text-shadow:0 0 5px #fff,0 0 10px #ff0;">Keshab Subedi</span>
+# 🌐 <span style="color:#d29cff; text-shadow:0 0 5px #d29cff,0 0 10px #9b59b6;">Keshab Subedi</span>
 
 ```bash
 > whoami
@@ -16,14 +16,14 @@
 
 ---
 
-## 🔴 Live Social Metrics (Neon Style)
+## 🔮 Live Social Metrics (Purple Theme)
 
-[![GitHub Followers](https://img.shields.io/badge/Followers-fff?style=for-the-badge&logo=github&logoColor=fff&color=0d0d0d&labelColor=#0ff)](https://github.com/subedikeshab)  
-[![GitHub Stars](https://img.shields.io/badge/Stars-fff?style=for-the-badge&logo=github&logoColor=ff0&color=0d0d0d&labelColor=#ff0)](https://github.com/subedikeshab)  
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCONlAWESb8V-w5mM1ejUFVg?style=for-the-badge&logo=youtube&logoColor=ff0000&color=0d0d0d&labelColor=ff0000)](https://www.youtube.com/channel/UCONlAWESb8V-w5mM1ejUFVg)  
-[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=#FF00FF&color=0d0d0d&labelColor=#FF00FF)](https://instagram.com/sub_edi_keshab)  
-[![Facebook Followers](https://img.shields.io/badge/Facebook-Follow-fff?style=for-the-badge&logo=facebook&logoColor=#1877F2&color=0d0d0d&labelColor=#1877F2)](https://facebook.com/subedi.keshab.404)  
-[![TikTok Followers](https://img.shields.io/badge/TikTok-Follow-fff?style=for-the-badge&logo=tiktok&logoColor=#00f2ea&color=0d0d0d&labelColor=#00f2ea)](https://www.tiktok.com/@keshprasub)
+[![GitHub Followers](https://img.shields.io/badge/Followers-fff?style=for-the-badge&logo=github&logoColor=#9b59b6&color=111111&labelColor=#9b59b6)](https://github.com/subedikeshab)  
+[![GitHub Stars](https://img.shields.io/badge/Stars-fff?style=for-the-badge&logo=github&logoColor=#9b59b6&color=111111&labelColor=#9b59b6)](https://github.com/subedikeshab)  
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCONlAWESb8V-w5mM1ejUFVg?style=for-the-badge&logo=youtube&logoColor=#9b59b6&color=111111&labelColor=#9b59b6)](https://www.youtube.com/channel/UCONlAWESb8V-w5mM1ejUFVg)  
+[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=#9b59b6&color=111111&labelColor=#9b59b6)](https://instagram.com/sub_edi_keshab)  
+[![Facebook Followers](https://img.shields.io/badge/Facebook-Follow-fff?style=for-the-badge&logo=facebook&logoColor=#9b59b6&color=111111&labelColor=#9b59b6)](https://facebook.com/subedi.keshab.404)  
+[![TikTok Followers](https://img.shields.io/badge/TikTok-Follow-fff?style=for-the-badge&logo=tiktok&logoColor=#9b59b6&color=111111&labelColor=#9b59b6)](https://www.tiktok.com/@keshprasub)
 
 ---
 
@@ -84,30 +84,30 @@ Databases: MySQL, MongoDB, Supabase
 
 ---
 
-## 📊 GitHub Metrics (Neon Stickers)
+## 📊 GitHub Metrics (Purple Neon)
 
-![GitHub Followers](https://img.shields.io/badge/Followers-fff?style=for-the-badge&logo=github&logoColor=fff&color=0d0d0d&labelColor=#0ff)  
-![GitHub Stars](https://img.shields.io/badge/Stars-fff?style=for-the-badge&logo=github&logoColor=ff0&color=0d0d0d&labelColor=#ff0)  
-![Top Language: Python](https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=#00ffff&color=0d0d0d&labelColor=#00ffff)  
-![Top Language: PHP](https://img.shields.io/badge/PHP-fff?style=for-the-badge&logo=php&logoColor=#ff00ff&color=0d0d0d&labelColor=#ff00ff)  
-![Contribution Streak](https://img.shields.io/badge/Streak-🔥-fff?style=for-the-badge&color=0d0d0d&labelColor=#ff007f)
+![GitHub Followers](https://img.shields.io/badge/Followers-fff?style=for-the-badge&logo=github&logoColor=#9b59b6&color=111111&labelColor=#9b59b6)  
+![GitHub Stars](https://img.shields.io/badge/Stars-fff?style=for-the-badge&logo=github&logoColor=#9b59b6&color=111111&labelColor=#9b59b6)  
+![Top Language: Python](https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=#9b59b6&color=111111&labelColor=#9b59b6)  
+![Top Language: PHP](https://img.shields.io/badge/PHP-fff?style=for-the-badge&logo=php&logoColor=#9b59b6&color=111111&labelColor=#9b59b6)  
+![Contribution Streak](https://img.shields.io/badge/Streak-🔥-fff?style=for-the-badge&color=111111&labelColor=#9b59b6)
 
 ---
 
-## 🏆 Achievements (Neon Stickers)
+## 🏆 Achievements (Purple Stickers)
 
-![Top Starred Repo](https://img.shields.io/badge/Top_Starred-⭐-fff?style=for-the-badge&color=0d0d0d&labelColor=#00ff99)  
-![Most Commits](https://img.shields.io/badge/Commits-💻-fff?style=for-the-badge&color=0d0d0d&labelColor=#ff00ff)  
-![Open Source](https://img.shields.io/badge/Open_Source-🔓-fff?style=for-the-badge&color=0d0d0d&labelColor=#00ffff)  
-![Hackathons](https://img.shields.io/badge/Hackathons-🏆-fff?style=for-the-badge&color=0d0d0d&labelColor=#ff007f)
+![Top Starred Repo](https://img.shields.io/badge/Top_Starred-⭐-fff?style=for-the-badge&color=111111&labelColor=#9b59b6)  
+![Most Commits](https://img.shields.io/badge/Commits-💻-fff?style=for-the-badge&color=111111&labelColor=#9b59b6)  
+![Open Source](https://img.shields.io/badge/Open_Source-🔓-fff?style=for-the-badge&color=111111&labelColor=#9b59b6)  
+![Hackathons](https://img.shields.io/badge/Hackathons-🏆-fff?style=for-the-badge&color=111111&labelColor=#9b59b6)
 
 ---
 
 ## 📡 Secure Channels
 
-[![Email](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:keshprasub@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/subedikeshab)  
-[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=#FF00FF)](https://instagram.com/sub_edi_keshab)
+[![Email](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=gmail&logoColor=#9b59b6)](mailto:keshprasub@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=#9b59b6)](https://github.com/subedikeshab)  
+[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=#9b59b6)](https://instagram.com/sub_edi_keshab)
 
 ---
 
@@ -118,3 +118,11 @@ Databases: MySQL, MongoDB, Supabase
 
 ---
 
+### 🌌 Cyberpunk Hacker Coder Aesthetic
+
+- ASCII “terminal rain” in code blocks  
+- Bold outputs for terminal commands  
+- Dark hacker terminal theme  
+- Purple neon icons/logos for all badges  
+- Sticker-style badges for achievements, GitHub metrics, and socials  
+- Fully GitHub-compatible, no broken badges
