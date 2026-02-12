@@ -1,27 +1,99 @@
-# 💫 About Me:
-🔭 I’m currently working on building exciting projects and improving my technical skills.<br>👯 I’m looking to collaborate on innovative ideas, open-source projects, and creative problem-solving.<br>🤝 I’m looking for help with expanding my knowledge and growing as a developer.<br>🌱 I’m currently learning new technologies and sharpening my coding skills.<br>💬 Ask me about tech, productivity, and creative ideas.<br>⚡ Fun fact: I love turning ideas into real, working projects!
+# 🕶️ Keshab Subedi
 
+```bash
+> whoami
+subedikeshab
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subedi.keshab.404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sub_edi_keshab) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@keshprasub) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@keshprasub) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshprasub@gmail.com) 
+> role
+Offensive Security Enthusiast | Cloud Engineer | Backend Developer
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=flat&logo=alibabacloud&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=Codeberg&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=Apache%20Flink&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat&logo=Apache%20Ant&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat&logo=affinity-photo&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=flat&logo=gitpod&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=flat&logo=sentry&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=subedikeshab&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=subedikeshab&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subedikeshab&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> access_level
+user → sudo → root
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=subedikeshab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=subedikeshab&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+> mission
+Exploit. Secure. Automate.
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=subedikeshab&icon=4&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔐 Red Team Profile
+
+```yaml
+focus:
+  - Offensive Security
+  - Cloud Security
+  - Infrastructure Hardening
+  - Backend Exploit Mitigation
+
+interests:
+  - Vulnerability Research
+  - Web Application Security
+  - Network Reconnaissance
+  - Privilege Escalation
+
+currently_learning:
+  - Advanced Penetration Testing
+  - Kubernetes Security
+  - Reverse Engineering
+  - Threat Modeling
+
+mindset: "Think like an attacker. Build like a defender."
+```
+
+---
+
+## 🧰 Arsenal
+
+### 💻 Languages
+`Python` `Bash` `PHP`
+
+### ☁️ Cloud & Infrastructure
+`AWS` `Azure` `Alibaba Cloud` `Cloudflare` `Linode`
+
+### 🐳 DevSecOps
+`Docker` `GitHub Actions` `GitLab CI`  
+`Apache Tomcat` `Apache Flink` `Mosquitto`
+
+### 🗄 Databases
+`MySQL` `MongoDB` `Supabase`
+
+### 🛠 Monitoring / Testing
+`Cypress` `Sentry` `Testing Library`
+
+---
+
+## 🧠 Security Doctrine
+
+```bash
+# enumerate
+# exploit
+# escalate
+# persist
+# patch & harden
+```
+
+Zero Trust Architecture • Least Privilege • Continuous Monitoring
+
+---
+
+## 📊 Recon Metrics
+
+![](https://github-readme-stats.vercel.app/api?username=subedikeshab&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=subedikeshab&theme=vision-friendly-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subedikeshab&theme=vision-friendly-dark&hide_border=true&layout=compact)
+
+---
+
+## 📡 Secure Channel
+
+[![Email](https://img.shields.io/badge/Encrypted_Email-D14836?logo=gmail&logoColor=white)](mailto:keshprasub@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/subedikeshab)
+[![Instagram](https://img.shields.io/badge/Social_Channel-E4405F?logo=instagram&logoColor=white)](https://instagram.com/sub_edi_keshab)
+
+---
+
+```bash
+> echo "Security is not a product. It’s a process."
+```
