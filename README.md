@@ -21,9 +21,7 @@ Exploit. Secure. Automate.
 [![GitHub followers](https://img.shields.io/github/followers/subedikeshab?label=GitHub&style=for-the-badge&logo=github)](https://github.com/subedikeshab)
 [![GitHub stars](https://img.shields.io/github/stars/subedikeshab?affiliations=OWNER&style=for-the-badge&logo=github)](https://github.com/subedikeshab?tab=repositories)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@keshprasub)
-
-<!-- Replace UC with your real YouTube Channel ID for live subscriber count -->
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCONlAWESb8V-w5mM1ejUFVg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@keshprasub)
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-black?style=for-the-badge&logo=instagram)](https://instagram.com/sub_edi_keshab)
 
