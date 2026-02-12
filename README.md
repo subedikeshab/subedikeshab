@@ -69,17 +69,7 @@
 
 ---
 
-<!-- Animation styles -->
-<style>
-  /* Subtle blink animation (accessibility-safe) */
-  .blink {
-    animation: blinkFade 2.5s ease-in-out infinite;
-  }
 
-  @keyframes blinkFade {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.5; }
-  }
 
   /* Coming soon pulse */
   .coming-soon {
