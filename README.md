@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi! I’m **Subedi Keshab**, a passionate developer who loves turning ideas into real, working projects.  
+Hi! I’m *Subedi Keshab*, a passionate developer who loves turning ideas into real, working projects.  
 
 - 🔭 Building exciting projects and leveling up my tech skills.  
 - 👯 Open to collaboration on **open-source, innovative, and creative projects**.  
