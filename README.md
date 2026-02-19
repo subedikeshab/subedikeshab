@@ -61,7 +61,7 @@ Hi! I’m *Subedi Keshab*, a passionate developer who loves turning ideas into r
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repos
